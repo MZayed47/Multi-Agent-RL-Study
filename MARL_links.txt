@@ -1,0 +1,16 @@
+*** Multi-Agent Reinforcement Learning ***
+
+TDS:
+https://towardsdatascience.com/ive-been-thinking-about-multi-agent-reinforcement-learning-marl-and-you-probably-should-be-too-8f1e241606ac
+
+TDS 15 lines code:
+https://towardsdatascience.com/multi-agent-deep-reinforcement-learning-in-15-lines-of-code-using-pettingzoo-e0b963c0820b
+
+Papers with code:
+https://paperswithcode.com/task/multi-agent-reinforcement-learning
+
+Medium:
+https://medium.com/swlh/the-gist-multi-agent-reinforcement-learning-767b367b395f
+
+
+
